@@ -201,7 +201,7 @@ rich                           14.2.0                                 python
 rust-coreutils                 0.10.0-1ubuntu2~26.04.1                deb                              
 sed                            4.9-2ubuntu1                           deb                              
 sensible-utils                 0.0.26build1                           deb                              
-sentence-stream                1.3.0                                  python                           
+sentence-stream                1.4.0                                  python                           
 setuptools                     70.3.0                                 python                           
 setuptools                     84.2.1                                 python                           
 stdlib                         go1.27.3                               go-module                        
