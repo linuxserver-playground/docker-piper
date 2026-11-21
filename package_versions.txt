@@ -193,7 +193,7 @@ python3.14                     3.14.4-1ubuntu0.2                      deb
 python3.14-minimal             3.14.4-1ubuntu0.2                      deb                              
 python3.14-venv                3.14.4-1ubuntu0.2                      deb                              
 readline-common                8.3-4                                  deb                              
-regex                          2026.11.15                             python                           
+regex                          2026.11.19                             python                           
 requests                       2.34.2                                 python                           
 resolvelib                     1.2.1                                  python                           
 rich                           15.0.0                                 python                           
